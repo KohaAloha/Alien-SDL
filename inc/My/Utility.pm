@@ -169,7 +169,6 @@ our $source_packs = [
         version => '2.3.12',
         dirname => 'freetype-2.3.12',
         url => [
-          'http://mirror.lihnidos.org/GNU/savannah/freetype/freetype-2.3.12.tar.gz',
           'http://froggs.de/libfreetype/freetype-2.3.12.tar.gz',
         ],
         sha1sum  => '0082ec5e99fec5a1c6d89b321a7e2f201542e4b3',
