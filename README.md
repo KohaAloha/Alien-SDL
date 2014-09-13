@@ -1,3 +1,5 @@
+<a href="https://travis-ci.org/KohaAloha/Alien-SDL"><img src="https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1"></a>
+
 =for HTML <a href="https://travis-ci.org/KohaAloha/Alien-SDL"><img src="https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1"></a>
 
 # moo1 [![Build Status](https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1)](https://travis-ci.org/KohaAloha/Alien-SDL)
