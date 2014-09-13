@@ -1,5 +1,11 @@
 <a href="https://travis-ci.org/KohaAloha/Alien-SDL"><img src="https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1"></a>
 
+<<<<<<< HEAD:README
+=======
+=for HTML <a href="https://travis-ci.org/KohaAloha/Alien-SDL"><img src="https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1"></a>
+
+
+>>>>>>> c41b83f... 	modified:   Readme.md:Readme.md
 NAME
     Alien::SDL - building, finding and using SDL binaries
 
