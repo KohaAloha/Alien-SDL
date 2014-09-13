@@ -1,8 +1,6 @@
-# SPiD API Documentation [![Build Status](https://travis-ci.org/schibsted/spid-tech-docs.svg?branch=master)](https://travis-ci.org/schibsted/spid-tech-docs)
+# moo1 [![Build Status](https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1)](https://travis-ci.org/KohaAloha/Alien-SDL)
 
-# moo [![Build Status](https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1)](https://travis-ci.org/KohaAloha/Alien-SDL)
-
-https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1
+moo2 https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1
 
 =for HTML <a href="https://travis-ci.org/KohaAloha/Alien-SDL"><img src="https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1"></a>
 
