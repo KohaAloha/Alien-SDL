@@ -1,7 +1,5 @@
 # moo1 [![Build Status](https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1)](https://travis-ci.org/KohaAloha/Alien-SDL)
 
-moo2 https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1
-
 NAME
     Alien::SDL - building, finding and using SDL binaries
 
