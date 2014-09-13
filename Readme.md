@@ -4,6 +4,8 @@ moo2 https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1
 
 <a href="https://travis-ci.org/KohaAloha/Alien-SDL"><img src="https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1"></a>
 
+=for HTML <a href="https://travis-ci.org/KohaAloha/Alien-SDL"><img src="https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav1"></a>
+
 
 NAME
     Alien::SDL - building, finding and using SDL binaries
