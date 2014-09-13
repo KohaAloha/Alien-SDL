@@ -1,3 +1,5 @@
+# Alien::SDL [![Build Status](https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav5)](https://travis-ci.org/KohaAloha/Alien-SDL)
+
 NAME
     Alien::SDL - building, finding and using SDL binaries
 
