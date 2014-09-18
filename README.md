@@ -1,4 +1,4 @@
-# Alien::SDL [![Build Status](https://travis-ci.org/KohaAloha/Alien-SDL.svg?branch=ka-trav5)](https://travis-ci.org/KohaAloha/Alien-SDL)
+# Alien::SDL [![Build Status](https://travis-ci.org/PerlGameDev/Alien-SDL.svg?branch=master)](https://travis-ci.org/PerlGameDev/Alien-SDL)
 
 NAME
     Alien::SDL - building, finding and using SDL binaries
